@@ -87,7 +87,19 @@ The program’s interactive menu offers:
 ---
 
 ## 📚 About Me  
-Hi, I’m **Vishesh Kumar**, a budding developer pursuing **B.Tech in Computer Science (AI)** at **Netaji Subhas University of Technology, Delhi**. I have hands-on experience with Python, SQL, and Power BI, complemented by strong analytical and problem-solving skills.
+Hello! I’m Vishesh Kumar, an aspiring Business Strategist with a passion for leveraging data-driven decision-making to solve complex business challenges. With expertise in Machine Learning, AI, Data Structures, and Advanced Analytics, I aim to bridge the gap between insights and actionable strategies.
+
+🔑 Key Skills:
+
+Excel, Power BI, SQL, Python
+
+Machine Learning & AI
+
+Data Structures and Algorithms
+
+Business Analysis (BRD, FRD, Agile & Waterfall)
+
+I’m driven by the power of data and technology to innovate and help organizations grow.
 
 ---
 
