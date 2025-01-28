@@ -60,7 +60,7 @@ I created this **Bank Account Management System** as a Python-based project to s
 ### Steps  
 1. Clone the repository:  
    ```bash
-   git clone https://github.com/Visheshkumar11/bank-account-management.git
+   git clone https://github.com/Visheshkumar11/Bank-Account-Management-System-Python-.git
    ```
 2. Navigate to the folder:  
    ```bash
