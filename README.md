@@ -57,20 +57,6 @@ I created this **Bank Account Management System** as a Python-based project to s
 - ⚙️ Python 3.8 or later
 - 📊 Libraries: `NumPy`, `pickle`
 
-### Steps  
-1. Clone the repository:  
-   ```bash
-   https://github.com/Visheshkumar11/Bank-Account-Management-System-Python-.git
-   ```
-2. Navigate to the folder:  
-   ```bash
-   https://github.com/Visheshkumar11/Bank-Account-Management-System-Python-
-   ```
-3. Run the program:  
-   ```bash
-   python main.py
-   ```
-
 ---
 
 ## 🔧 Usage  
