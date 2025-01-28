@@ -64,7 +64,7 @@ I created this **Bank Account Management System** as a Python-based project to s
    ```
 2. Navigate to the folder:  
    ```bash
-  
+  Bank Account Management System (Python)
    ```
 3. Run the program:  
    ```bash
