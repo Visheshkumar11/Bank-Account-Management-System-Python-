@@ -87,19 +87,22 @@ The program’s interactive menu offers:
 ---
 
 ## 📚 About Me  
-Hello! I’m Vishesh Kumar, an aspiring Business Strategist with a passion for leveraging data-driven decision-making to solve complex business challenges. With expertise in Machine Learning, AI, Data Structures, and Advanced Analytics, I aim to bridge the gap between insights and actionable strategies.
 
-🔑 Key Skills:
+Hi there! 👋 I’m **Vishesh Kumar**, an aspiring **Business Strategist** with a passion for leveraging **data-driven decision-making** to solve complex business challenges. My expertise lies at the intersection of **Machine Learning**, **Artificial Intelligence**, **Advanced Analytics**, and **Business Strategy**.  
 
-Excel, Power BI, SQL, Python
+I specialize in bridging the gap between **data insights** and **actionable strategies**, empowering organizations to drive innovation and achieve growth.  
 
-Machine Learning & AI
+### 🔑 Key Skills  
+- **Excel**: Data Cleaning, Pivot Tables, Advanced Functions, Power Query  
+- **Power BI**: Dashboarding, DAX Optimization, Data Modeling  
+- **SQL**: Complex Queries, Data Extraction, Database Optimization  
+- **Python**: Data Analysis (Pandas, NumPy), Visualization (Matplotlib, Seaborn), Machine Learning (Scikit-Learn)  
+- **Machine Learning & AI**: Regression, Classification, Clustering, Neural Networks, NLP  
+- **Data Structures & Algorithms**: Problem Solving, Complexity Optimization  
+- **Business Analysis**: BRD, FRD, Wireframes, Agile & Waterfall Methodologies  
 
-Data Structures and Algorithms
+I believe in the power of **data and technology** to transform ideas into impactful business outcomes. Let's innovate together! 🚀
 
-Business Analysis (BRD, FRD, Agile & Waterfall)
-
-I’m driven by the power of data and technology to innovate and help organizations grow.
 
 ---
 
